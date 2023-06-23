@@ -8,7 +8,6 @@
 - 📫 My contact: **leonardoschiffner88@gmail.com**
 
 - ⚡ More: **I try to create everything that I find interesting**
-- 
 <br>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cirqueiradev)
