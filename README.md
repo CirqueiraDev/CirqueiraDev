@@ -1,4 +1,3 @@
-### Welcome!
 <br>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cirqueiradev)
@@ -8,8 +7,6 @@
 ![Cirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=radical)
 
 <br>
-
-## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
