@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Cirqueira 🧐</h1>
 <br>
 
-- 🌱 I’m currently learning: **Compiler desing**
+- 💻 My discord: **Cirqueira#2661**
 
-- 👨‍💻 My portifolio: 
+- 👤 My portifolio: Soon
 
-- 📫 My contact: **pedrokalebdej1@gmail.com**
+- 📫 My contact: **leonardoschiffner88@gmail.com**
 
-- ⚡ My interests: **I like drawing and reading manga**
+- ⚡ More: **I try to create everything that I find interesting**
+<br>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cirqueiradev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cirqueira.7/)
