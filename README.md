@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header"/>
+
 <h1 align="center">Hi, I'm Cirqueira 🧐</h1>
 <br>
 
@@ -38,3 +40,5 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Sublime's custom image" height=300px />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=footer"/>
