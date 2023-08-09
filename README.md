@@ -4,7 +4,7 @@
 
 #
 
-- 💻 My discord: **Cirqueira#2661**
+- 💻 My discord: **cirqueira**
 
 - 👤 My portifolio: Soon
 
