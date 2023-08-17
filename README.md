@@ -1,6 +1,9 @@
-<h1 align="center"><b>Hi there, I'm 16 years old! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <h1><b>Hi there, I'm 16 years old! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/937184972376565107/800E7077A9ACE841BBD6D088674CA9603DC589B3/" width="350">
+</div>
 
-<h2 align="center"><b>Connect with me</b><img src="assets/contact_me.gif" width="35px"/></h2>
+<h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px"/></h3>
 
 - 💻 My discord: **cirqueira**
 
