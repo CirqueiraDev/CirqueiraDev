@@ -22,8 +22,8 @@
 
   ![Cirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=radical)
 </div>
-
-<h3 align="center">Technologies that I use in my daily life</h3>
+<br>
+<h3 align="center">Technologies that I use in my daily life <img src="assets/about_me.gif" width="35px"/></h3>
 <br>
 <div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
