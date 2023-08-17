@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, I'm 16 years old! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b></h2>
+<h2 align="center"><b>Connect with me</b><img src="assets/contact_me.gif" width="35px"/></h2>
 
 - 💻 My discord: **cirqueira**
 
