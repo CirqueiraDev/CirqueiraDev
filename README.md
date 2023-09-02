@@ -6,7 +6,7 @@
 <h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px" alt="Contact"></h3>
 
 <div align="center">
-  <a href="mailto:leonardoschiffner88@gmail.com">📫 Email: leonardoschiffner88@gmail.com</a><br>
+  <h4>📫 Email: <a href="mailto:leonardoschiffner88@gmail.com">leonardoschiffner88@gmail.com</a></h4>
   💬 Discord: cirqueira<br>
   👤 Portfolio: Soon
 </div>
