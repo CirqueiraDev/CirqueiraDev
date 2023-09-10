@@ -5,11 +5,11 @@
 
 <h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px" alt="Contact"></h3>
 
-- 💻 My discord: **estrelagaroto**
+- 💻 My discord: **cirqueira**
 
-- 👤 My portifolio: https://beyz.glitch.me/
+- 👤 My portifolio: Soon
 
-- 📫 My contact: **estrelagaroto**
+- 📫 My contact: **leonardoschiffner88@gmail.com**
 
 - ⚡ More: **I try to create everything that I find interesting**
 
