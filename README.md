@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/937184972376565107/800E7077A9ACE841BBD6D088674CA9603DC589B3/" width="350" alt="Profile Image">
   <h1 align="center">Hi there, I'm 17 years old! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
 </div>
 
