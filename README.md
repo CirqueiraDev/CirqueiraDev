@@ -3,8 +3,6 @@
   <h1 align="center">Hi there, I'm 17 years old! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
 </div>
 
-<br>
-
 <h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px" alt="Contact"></h3>
 
 - 💻 My discord: **cirqueira**
