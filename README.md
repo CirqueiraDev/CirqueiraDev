@@ -45,3 +45,7 @@
   <br>
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CirqueiraDev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+<div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/937184972376565107/800E7077A9ACE841BBD6D088674CA9603DC589B3/" width="350" alt="Profile Image">
+</div>
