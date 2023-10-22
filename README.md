@@ -8,7 +8,7 @@
 
 - 👤 My portifolio: Soon
 
-- 📫 My contact: **leonardoschiffner88@gmail.com**
+- 📫 My contact: **Soon**
 
 - ⚡ More: **I try to create everything that I find interesting**
 
