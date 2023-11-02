@@ -1,5 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm 17 years old! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
+
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/937184972376565107/800E7077A9ACE841BBD6D088674CA9603DC589B3/" width="350" alt="Profile Image">
+
+  
+  <h3 align="center">Hi there, I'm 17 years old! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 </div>
 
 <h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px" alt="Contact"></h3>
@@ -12,8 +19,6 @@
 
 - ⚡ More: **I try to create everything that I find interesting**
 
-<br>
-
 <div>
   
   [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cirqueiradev)
@@ -21,9 +26,7 @@
   [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cirqueiradev)
 </div>
 
-#
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <br>
@@ -31,7 +34,9 @@
   ![Cirqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=radical)
 </div>
 
-<h1 align="center">Technologies that I use in my daily life <img src="assets/about_me.gif" width="35px" alt="About Me"></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<h3 align="center">Technologies that I use in my daily life <img src="assets/about_me.gif" width="35px" alt="About Me"></h1>
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,8 +49,4 @@
 <div align="center">
   <br>
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CirqueiraDev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/937184972376565107/800E7077A9ACE841BBD6D088674CA9603DC589B3/" width="350" alt="Profile Image">
 </div>
