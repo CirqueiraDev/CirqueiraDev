@@ -4,9 +4,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 </div>
 
-<h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px" alt="Contact"></h3>
+<h3 align="center">Connect with me</h3>
 
-- 💻 My discord: <strong>cirqueira</strong>
+- 💻 My discord: <strong>cirqueira </strong>
 - 👤 My portfolio: Soon
 - 📫 My contact: <strong>Soon</strong>
 - ⚡ More: I try to create everything that I find interesting
