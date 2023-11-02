@@ -1,12 +1,8 @@
 <div align="center">
 
   <img src="https://steamuserimages-a.akamaihd.net/ugc/937184972376565107/800E7077A9ACE841BBD6D088674CA9603DC589B3/" width="350" alt="Profile Image">
-
-  
   <h3 align="center">Hi there, I'm 17 years old! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 </div>
 
 <h3 align="center">Connect with me <img src="assets/contact_me.gif" width="35px" alt="Contact"></h3>
