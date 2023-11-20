@@ -6,7 +6,7 @@
 
 <h3 align="center">Connect with me <img src="./assets/contact_me.gif" width="35" alt="Contact"></h3>
 
-- 💻 My discord: <strong>cirqueira </strong>
+- 💻 My discord: <strong>cirqueira</strong>
 - 👤 My portfolio: Soon
 - 📫 My contact: <strong>Soon</strong>
 - ⚡ More: I try to create everything that I find interesting
