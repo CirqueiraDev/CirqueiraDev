@@ -17,7 +17,6 @@
   <a href="https://www.youtube.com/@cirqueiradev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.instagram.com/cirqueira.lol/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://tiktok.com/@cirqueiradev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"></a>
-  <a href="https://t.me/CirqueiraDev"><img src="https://img.shields.io/badge/Telegram-0078FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Tiktok"></a>
 </div>
 
 <br>
