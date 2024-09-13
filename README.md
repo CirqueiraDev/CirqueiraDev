@@ -20,15 +20,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=radical" alt="Cirqueira GitHub stats">
-</div>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h3 align="center">Technologies that I use in my daily life <img src="assets/about_me.gif" width="35px" alt="About Me"></h3>
@@ -47,3 +38,12 @@
   
   <img width="41%" height="50%px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CirqueiraDev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=radical" alt="Cirqueira GitHub stats">
+</div>
+
+<br>
