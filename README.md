@@ -25,7 +25,7 @@
 
 <div align="center">
 <samp>
- 🖖 Code Lover | 🌵 Developer | 💻 Exploiter
+ 🖖 Code Lover | 🌵 Developer
  </samp>
  <br>
  <samp>
