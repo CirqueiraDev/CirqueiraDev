@@ -10,7 +10,7 @@
  </pre>
 </div>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=I+AM+FROM+BRAZIL+:D;I+Love+Programming+<3">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=I+Love+Security;I+Love+Programming">
 </div>
 
 <div align="center">
