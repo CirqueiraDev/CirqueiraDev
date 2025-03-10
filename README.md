@@ -19,8 +19,6 @@
     <a href="https://www.instagram.com/cirqueirakkjk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://tiktok.com/@cirqueiradev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"></a>
   </div>
-
- <a href="https://guns.lol/cirqueira"><img src="https://img.shields.io/badge/guns.lol-ff00c3?style=for-the-badge&logo=gun&logoColor=white" alt="guns.lol"></a>
 </div>
 
 <br>
