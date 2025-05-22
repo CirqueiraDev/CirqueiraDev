@@ -14,9 +14,6 @@
 <br>
 
 <div align="center">
-<samp>
- 🖖 Code Lover | 🌵 Developer
- </samp>
  <br>
  <samp>
    <div>I'm not responsible for what you guys do using my tools!</div>
@@ -43,7 +40,15 @@
 <br>
 
 <div align="center">
- <samp><h1>Cirqueira's Github stats</h1></samp> 
+  <h1>Cirqueira's GitHub</h1>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  </div>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=radical" alt="Cirqueira GitHub stats">
+<div align="center">
+  <h1>Cirqueira Top Languages</h1>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CirqueiraDev&layout=compact&theme=tokyonight" alt="Top Languages">
+  </div>
 </div>
