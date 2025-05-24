@@ -42,13 +42,13 @@
 <div align="center">
   <h1>Cirqueira's GitHub</h1>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=tokyonight">
   </div>
 </div>
 
 <div align="center">
   <h1>Cirqueira Top Languages</h1>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CirqueiraDev&layout=compact&theme=tokyonight" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CirqueiraDev&layout=compact&theme=tokyonight">
   </div>
 </div>
