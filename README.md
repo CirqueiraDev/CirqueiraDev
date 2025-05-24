@@ -42,7 +42,7 @@
 <div align="center">
   <h1>Cirqueira's GitHub</h1>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=CirqueiraDev&show_icons=false&theme=tokyonight">
   </div>
 </div>
 
