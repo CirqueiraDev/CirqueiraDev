@@ -15,9 +15,8 @@ ___/ _| _|  _\_\ \___| _| _| \__,_|
 </div>
 
  ### Contact me:
- - You can contact me on [Telegram](https://t.me/cirqueiradev)
  - **Discord: Cirqueira**
- - <a href="https://www.instagram.com/sirkeirax/">Instagram</a>
+ - You can contact me on [**Telegram**](https://t.me/cirqueiradev) or [**Instagram**](https://www.instagram.com/sirkeirax/)
  - **Small Community about IT world, leaks and more**: [**RootNet**](https://discord.gg/r7EGGCp6sC)
 
 <div>
