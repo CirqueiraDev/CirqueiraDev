@@ -11,7 +11,7 @@
   |  | (   |  cirqueira | /            └─ AtomicStresser
   )  |  \  `.___________|/ 
   `--'   `--'
-# Cats are not just companions they are small mysteries that choose to stay.</pre>
+# Quiet steps, warm presence. I love them.</pre>
 </div>
 
  ### Contact me:
