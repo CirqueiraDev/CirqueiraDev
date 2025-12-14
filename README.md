@@ -11,7 +11,7 @@
   |  | (   |  cirqueira | /            └─ AtomicStresser
   )  |  \  `.___________|/ 
   `--'   `--'
-# Quiet steps, warm presence. I love them.</pre>
+$ Quiet steps, warm presence. I love them.</pre>
 </div>
 
  ### Contact me:
