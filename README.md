@@ -1,14 +1,14 @@
 <div align="">
  <pre>
-  ,-.       _,---._ __  / \         sirkeira
- /  )    .-'       `./ /   \        ├─ python
-(  (   ,'            `/    /|       │  ├─ NetStorm
- \  `-"             \'\   / |       │  ├─ KryptonC2
-  `.              ,  \ \ /  |       │  └─ Exploits
-   /`.          ,'-`----Y   |       ├─ c/cpp
-  (            ;        |   '       │  └─ OverburstC2
-  |  ,-.    ,-'         |  /        └─ javascript
-  |  | (   |  cirqueira | /            └─ AtomicStresser
+  ,-.       _,---._ __  / \  [sirkeira]
+ /  )    .-'       `./ /   \    ├─ python
+(  (   ,'            `/    /|   │  ├─ NetStorm
+ \  `-"             \'\   / |   │  ├─ KryptonC2
+  `.              ,  \ \ /  |   │  └─ Exploits
+   /`.          ,'-`----Y   |   ├─ c/cpp
+  (            ;        |   '   │  └─ OverburstC2
+  |  ,-.    ,-'         |  /    └─ javascript
+  |  | (   |  cirqueira | /        └─ AtomicStresser
   )  |  \  `.___________|/ 
   `--'   `--'
 $ Quiet steps, warm presence. I love them.</pre>
