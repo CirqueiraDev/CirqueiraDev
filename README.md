@@ -15,7 +15,7 @@ $ Quiet steps, warm presence. I love them.</pre>
 </div>
 
 <div align="center">
-  <h1>contact me:</h1>
+  <h1></h1>
 </div>
 
  - **Discord: `cirqueira`**
