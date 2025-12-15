@@ -25,6 +25,7 @@ $ Quiet steps, warm presence. I love them.</pre>
 > **All information and code provided on this profile are for educational purposes only. The creator is not responsible for any direct or indirect damage resulting from misuse of this material. Whatever you choose to do is entirely at your own risk and responsibility.**
 
 ---
+
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CirqueiraDev&layout=compact&langs_count=50&card_width=800&card_height=500&theme=dark" alt="Top Langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CirqueiraDev&layout=compact&langs_count=20&card_width=600%&card_height=500&theme=dark" alt="Top Langs">
 </div>
