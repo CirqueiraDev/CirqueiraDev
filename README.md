@@ -27,5 +27,5 @@ $ Quiet steps, warm presence. I love them.</pre>
 ---
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CirqueiraDev&layout=compact&langs_count=20&card_width=600%&card_height=500&theme=dark" alt="Top Langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CirqueiraDev&layout=compact&langs_count=20&card_width=800%&card_height=500&theme=dark" alt="Top Langs">
 </div>
