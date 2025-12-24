@@ -18,9 +18,8 @@ Quiet steps, warm presence, a little chaotic. I love them.</pre>
   <h1></h1>
 </div>
 
- - **Discord: `cirqueira`**
- - [**Telegram**](https://t.me/cirqueiradev) **|** [**Instagram**](https://www.instagram.com/sirkeirax/)
- - **Small Community about IT world, leaks and more:**
+- **Discord: `cirqueira`**
+- **Small Community about IT world, leaks and more:**
    - **Discord:** [**RootNet**](https://discord.gg/r7EGGCp6sC)
    - **Telegram:** [**RootNet (backup)**](https://t.me/+ryqlA6tkf_5lOWVk)
 
