@@ -24,7 +24,8 @@ Quiet steps, warm presence, a little chaotic. I love them.</pre>
    - [**Telegram RootNet (backup)**](https://t.me/+ryqlA6tkf_5lOWVk)
 
 > [!IMPORTANT]
-> **All information and code provided on this profile are for `educational purposes only`. The creator is not responsible for any direct or indirect damage resulting from misuse of this material. Whatever you choose to do is entirely at `your own risk and responsibility`.**
+> **All information and code provided on this profile are for `educational purposes only`. The creator is not responsible for any direct or indirect damage resulting from misuse of this material.**
+> **Whatever you choose to do is entirely at `your own risk and responsibility`.**
 
 <div align="center">
   <p>@CirqueiraDev</p>
