@@ -28,5 +28,5 @@ Quiet steps, warm presence, a little chaotic. I love them.</pre>
 > **Whatever you choose to do is entirely at `your own risk and responsibility`.**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CirqueiraDev&color=lightgrey&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=SirkeiraDev&color=lightgrey&style=for-the-badge"/>
 </div>
