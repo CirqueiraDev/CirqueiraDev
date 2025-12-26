@@ -1,16 +1,16 @@
-<div align="">
+<div align="center">
  <pre>
-  ,-.       _,---._ __  / \    [sirkeira]
- /  )    .-'       `./ /   \      ├─ python
-(  (   ,'            `/    /|     │  ├─ NetStorm
- \  `-"             \'\   / |     │  ├─ KryptonC2
-  `.              ,  \ \ /  |     │  └─ Exploits
-   /`.          ,'-`----Y   |     ├─ c/cpp
-  (            ;        |   '     │  └─ OverburstC2
-  |  ,-.    ,-'         |  /      └─ javascript
-  |  | (   |  cirqueira | /          └─ AtomicStresser
-  )  |  \  `.___________|/ 
-  `--'   `--'
+  ,-.       _,---._ __  / \    
+ /  )    .-'       `./ /   \   
+(  (   ,'            `/    /|   
+ \  `-"             \'\   / |   
+  `.              ,  \ \ /  |   
+   /`.          ,'-`----Y   |   
+  (            ;        |   '   
+  |  ,-.    ,-'         |  /   
+  |  | (   |  cirqueira | /    
+  )  |  \  `.___________|/     
+  `--'   `--'                 
 Quiet steps, warm presence, a little chaotic. I love them.</pre>
 </div>
 
