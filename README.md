@@ -20,7 +20,7 @@ Quiet steps, warm presence, a little chaotic. I love them.</pre>
 
 - **Discord: `cirqueira`**
 - **Small Community about IT world, leaks and more:**
-   - [**Discord RootNet**](https://discord.gg/r7EGGCp6sC)
+   - [**Discord RootNet**](https://discord.gg/gRUFQ7kSwS)
    - [**Telegram RootNet**](https://t.me/+ryqlA6tkf_5lOWVk)
 
 > [!IMPORTANT]
