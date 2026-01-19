@@ -8,10 +8,10 @@
    /`.          ,'-`----Y   |   
   (            ;        |   '   
   |  ,-.    ,-'         |  /   
-  |  | (   |  cirqueira | /    
+  |  | (   |  sirkeira  | /    
   )  |  \  `.___________|/     
   `--'   `--'                 
-Quiet steps, warm presence, a little chaotic. I love them.</pre>
+Discord: Cirqueira</pre>
 </div>
 
 #
