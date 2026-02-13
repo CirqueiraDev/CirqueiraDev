@@ -24,7 +24,8 @@ Discord: Cirqueira</pre>
 </div>
 
 > [!note]
-> **All information and code provided on this profile are for `educational purposes only`. The creator is not responsible for any direct or indirect damage resulting from misuse of this material.**
+> **All information and code provided on this profile are for `educational purposes only`.** <br>
+> **The creator is not responsible for any direct or indirect damage resulting from misuse of this material.** <br>
 > **Whatever you choose to do is entirely at `your own risk and responsibility`.**
 
 <div align="center">
