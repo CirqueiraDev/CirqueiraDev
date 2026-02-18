@@ -31,5 +31,5 @@ Discord: Cirqueira</pre>
 
 <div align="center">
 
- [**@CirqueiraDev**](https://www.instagram.com/cirqueiradev)
+ [**@CirqueiraDev**](https://discord.gg/XQkzdqR7)
 </div>
