@@ -31,5 +31,5 @@ Discord: Cirqueira</pre>
 
 <div align="center">
 
- [**@CirqueiraDev**](https://discord.gg/XQkzdqR7)
+ **Discord:** [**Lazarus**](https://discord.gg/XQkzdqR7)
 </div>
