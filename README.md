@@ -2,7 +2,7 @@
  <img width="200" height="223" alt="image" src="https://github.com/user-attachments/assets/a24951d7-5ce0-4061-8a32-b9d428194c7d" />
  
  ```
-  cirqueiradev@proton.me
+cirqueiradev@proton.me
  ```
 </div>
 
