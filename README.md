@@ -13,7 +13,7 @@ cirqueiradev@proton.me  |  https://t.me/cirqueiradev
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,golang" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,golang,vscode" />
   </a>
 </p>
 
