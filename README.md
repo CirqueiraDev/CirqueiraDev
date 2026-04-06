@@ -24,7 +24,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+iHHgnRTl4qU2ZjIx)
 </div>
 
-> [!tip]
+> [!Caution]
 > My main Discord account, `cirqueira`, was banned until **2027**, so I created a temporary one, `sirkeiradev`.
 
 > [!warning]
