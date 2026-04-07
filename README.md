@@ -24,10 +24,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+iHHgnRTl4qU2ZjIx)
 </div>
 
-> [!Caution]
+> [!Warning]
 > My main Discord account, `cirqueira`, was banned until **2027**, so I created a temporary one, `sirkeiradev`.
 
-> [!warning]
+> [!Caution]
 > **All content and examples shared on this profile are intended strictly for `learning and research purposes`.** <br>
 > **The author assumes no liability for any misuse, damages, or consequences arising from the application of this material.** <br>
 > **By using this information, you acknowledge that you do so at `your own discretion and responsibility`.**
