@@ -25,7 +25,7 @@
 </div>
 
 > [!Warning]
-> My main Discord account, **`cirqueira`**, was banned until **2027**, so I created a temporary one, **`sirkeiradev`**.
+> **My main Discord account**, **`cirqueira`**, was banned until **2027**, **so I created a temporary one**, **`sirkeiradev`**.
 
 > [!Caution]
 > **All content and examples shared on this profile are intended strictly for `learning and research purposes`.** <br>
