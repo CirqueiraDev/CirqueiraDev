@@ -6,8 +6,8 @@
 ▄▄▄█▀ ██▄ ██    ██ ▀█▄ ▀█▄▄▄ ██▄ ██    ▀█▄██ 
 
 **cirqueiradev@proton.me**  **/**  **https://t.me/cirqueiradev**
-Discord: skpardo
-</pre>
+
+Discord: skpardo</pre>
 </div>
 
 #
